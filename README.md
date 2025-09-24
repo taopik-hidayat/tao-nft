@@ -1,4 +1,4 @@
-# EVM
+# evm chain for now.
 
 ```text
     _/      _/    _/_/_/_/  _/_/_/_/_/
@@ -7,4 +7,4 @@
  _/    _/_/    _/            _/
 _/      _/    _/            _/ 
                 
-"Automated Non-Fungible Token Minting."
+"automated non-fungible token minting."
